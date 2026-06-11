@@ -1,2 +1,1 @@
-# Como-produzir-alimentos-para-grandes-populacoes
-Projeto Integrador I
+# Como produzir alimentos para grandes populações
